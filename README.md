@@ -2,7 +2,7 @@
 
 I'm AJ. Here's a little about me:
 
-- 💼 [Pluralsight](https://www.pluralsight.com/) is my day-to-day work. Specifically, hands-on content.
+- 💼 [CodeSandbox](https://codesandbox.io/) is my day-to-day work.
 - 🦾 Volunteering with [FIRST Tech Challenge](https://www.firstinspires.org/robotics/ftc) teams and events is a hobby.
 - 💜 [Elixir](https://elixir-lang.org/) is my current language of choice for solving interesting problems.
 
